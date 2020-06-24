@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412303087413",
+    "firebase_url": "https://placid-9aa9c.firebaseio.com",
+    "project_id": "placid-9aa9c",
+    "storage_bucket": "placid-9aa9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412303087413:android:559ac3f381395dade89e7c",
+        "android_client_info": {
+          "package_name": "com.example.pv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412303087413-udc9m399m043degbr13uovf5i41sgqco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pv",
+            "certificate_hash": "e9b28ef58f5044c95baedfdfb4c84e0d6b45557e"
+          }
+        },
+        {
+          "client_id": "412303087413-j20dd0crp6o6g8jnuhe6lm1d3fqkrlql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdkE7j218Nah9nxjeVyksOnU2dRrmVIdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412303087413-j20dd0crp6o6g8jnuhe6lm1d3fqkrlql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
