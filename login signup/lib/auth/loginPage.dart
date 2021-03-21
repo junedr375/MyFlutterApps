@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:pv/auth/signupPage.dart';
-import 'package:pv/services/signInManagement.dart';
-import 'package:pv/Pages/home.dart';
+import 'package:truckobar/auth/signupPage.dart';
+import 'package:truckobar/services/signInManagement.dart';
+import 'package:truckobar/Pages/home.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:flutter_facebook_login/flutter_facebook_login.dart';
-import 'package:http/http.dart' as http;
+//import 'package:flutter_facebook_login/flutter_facebook_login.dart';
+//import 'package:http/http.dart' as http;
 import 'dart:convert' as JSON;
 
 class MyApp extends StatelessWidget {
